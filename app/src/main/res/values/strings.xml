@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ViewPagerCombinationWithTabLayout</string>
+    <string name="otkazib_yuborish">O’tkazib yuborish</string>
+    <string name="keyingisi">Keyingisi</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="big_text">Click va Paymega o’tish xizmati</string>
+    <string name="small_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pulvinar aliquam at donec facilisis. Lacus, justo, volutpat, diam condimentum ipsum, faucibus rutrum.</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="Big_text2">Geoaxborot</string>
+    <string name="small_text2">Geoaxborot moduli orqali siz o\'zingizga yaqin bo\'lgan migrantlar va boshqa muassasalar haqida ma\'lumot olishingiz mumkin</string>
+    <string name="royxatdan_otish">Ro‘yxatdan o‘tish</string>
+    <string name="foydalanuvchi">Foydalanuvchi</string>
+    <string name="email">Email</string>
+    <string name="parol">Parol</string>
+    <string name="saqlash">Saqlash</string>
+</resources>
